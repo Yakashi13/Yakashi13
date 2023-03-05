@@ -1,7 +1,7 @@
 <h2 align="center">
 Hello There 👋 <br>
 I'M Yakashi..
-
+</h2>
 About Me:
 
 - 🔭 I’m currently studing to be a software developer NVQ L4 qualifier...
