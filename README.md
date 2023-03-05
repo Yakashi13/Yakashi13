@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://wallpapercave.com/wp/wp5950773.png" alt="img" width="720px" heigth="1080px">
+<img src="https://github.com/Yakashi13/Yaka-MD/blob/main/Assets/Img/yaka.jpg" alt="img" width="720px" heigth="1080px">
 </div>
 
 <br>
@@ -30,7 +30,7 @@ Hello There.. I'm Yakashi..
 <br>
 
 <h2 align="Left">
-  Languages I Learned:
+  Languages curruntly i Learning:
 </h2>
 
 <div>
