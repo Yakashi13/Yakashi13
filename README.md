@@ -6,9 +6,16 @@
 </div>
 
 <br>
-  
+<br>
+
 <h2 align="center">
-Hello There.. I'm Yakashi..
+  
+  <div align="center">
+    
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello+There+...;I'm+yakashi...;Welcome+to+my+profile..)](https://git.io/typing-svg)
+  
+  </div>
+
 </h2>
 
 <br>
@@ -24,7 +31,7 @@ Hello There.. I'm Yakashi..
 - 📱 I like to be a Front-End developer. Soo, mainly focus on front end.. (suck at back-end)
 - 📖 Ask me about anything i'm free of charge...
 - 💀 Fun fact: I like to watch animes at my free times...
-<h2></h2>
+
 <br>
 <br>
 <br>
@@ -33,7 +40,7 @@ Hello There.. I'm Yakashi..
   Languages curruntly i Learning:
 </h2>
 
-<div>
+<div> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp; 
@@ -41,7 +48,5 @@ Hello There.. I'm Yakashi..
     <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" title="Googling" alt="Googling" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github learner" alt="Github learner" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
-   
 </div>
 
-<h2></h2>
