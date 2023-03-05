@@ -6,13 +6,13 @@
 </div>
 
 <br>
-<br>
+<hr>
 
 <h2 align="center">
   
   <div align="center">
     
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello+There+...;I'm+yakashi...;Welcome+to+my+profile..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=2000&color=F70000&width=655&height=69&lines=Hello+There.+.+.;I'm+Yakashi.+.+.;Welcome+to+my+profile.+.+.)](https://git.io/typing-svg)
   
   </div>
 
@@ -26,9 +26,9 @@
   About Me:
 </h2>
 
-- 😎 I’m currently studing to be a software developer NVQ L4 qualifier...
-- 💻 I’m currently doing nothing but learning computer languages..
-- 📱 I like to be a Front-End developer. Soo, mainly focus on front end.. (suck at back-end)
+- 😎 I’m Currently studing to be a software developer NVQ L4 qualifier...
+- 💻 Currently doing nothing but learning computer languages..
+- 📱  I like to be a Front-End developer. Soo, mainly focus on front end.. (suck at back-end)
 - 📖 Ask me about anything i'm free of charge...
 - 💀 Fun fact: I like to watch animes at my free times...
 
