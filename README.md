@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://github.com/Yakashi13/Yaka-MD/blob/main/Assets/Img/yaka.jpg" alt="img" width="720px" heigth="1080px">
+<img src="https://media0.giphy.com/media/o2KLYPem407CM/giphy.gif?cid=ecf05e47xzujr83vbuym0t36tht4q2m0me0121ohyoros5ld&rid=giphy.gif&ct=g" alt="img" width="720px" heigth="1080px">
 </div>
 
 <br>
