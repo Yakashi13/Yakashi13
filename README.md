@@ -7,18 +7,16 @@
   
 </div>
 
-
-
   # About Me :
   
 <p> 
- <img align="right" width="350" src="https://media.tenor.com/ITc1hNBSH_wAAAAC/coding-typing.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/coding-typing.gif" alt="Coding gif" />
 
- &emsp; ✌️ I’m Currently studying to be a software developer...<br/><br/>
- &emsp; 💻 I like to be a Front-End developer.<br/><br/>
- &emsp; - Soo, mainly focus on front end..(suck at back-end)<br/><br/>
+ &emsp;  ✌️ I’m Currently studying to be a software developer...<br/><br/>
+ &emsp; 💻 I like to be a Front-End developer,<br/><br/>
+ &emsp;  - Soo, mainly focus on front end..(suck at back-end)<br/><br/>
  &emsp; 😎 Enjoy to do programming and sharing knowledge <br/><br/>
- &emsp; 📱 Currently doing nothing but learning computer languages..<br/><br>
+ &emsp;  📱 Currently doing nothing but learning computer languages..<br/><br>
  &emsp; 📖 Ask me about anything i'm free of charge...<br/><br>
  &emsp; 💀 Fun fact: I like to watch animes at my free times...<br/><br>
   
@@ -30,6 +28,7 @@
 
 
 <div> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Js" alt="Js" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp; 
