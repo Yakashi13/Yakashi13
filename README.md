@@ -4,37 +4,30 @@
 <div align="center">
   
 <img src="https://media0.giphy.com/media/o2KLYPem407CM/giphy.gif?cid=ecf05e47xzujr83vbuym0t36tht4q2m0me0121ohyoros5ld&rid=giphy.gif&ct=g" alt="img" width="720px" heigth="1080px">
+  
 </div>
 
-<br>
-<hr>
 
-<h2 align="center">
+
+  # About Me :
   
-  <div align="center">
-    
+<p> 
+ <img align="right" width="350" src="https://media.tenor.com/ITc1hNBSH_wAAAAC/coding-typing.gif" alt="Coding gif" />
 
-  </div>
-
-</h2>
-
-<h2 align="Left">
-  About Me:
-</h2>
-
-- 😎 I’m Currently studying to be a software developer...
-- 💻 Currently doing nothing but learning computer languages..
-- 📱  I like to be a Front-End developer. Soo, mainly focus on front end.. (suck at back-end)
-- 📖 Ask me about anything i'm free of charge...
-- 💀 Fun fact: I like to watch animes at my free times...
+ &emsp; ✌️ I’m Currently studying to be a software developer...<br/><br/>
+ &emsp; 💻 I like to be a Front-End developer.<br/><br/>
+ &emsp; - Soo, mainly focus on front end..(suck at back-end)<br/><br/>
+ &emsp; 😎 Enjoy to do programming and sharing knowledge <br/><br/>
+ &emsp; 📱 Currently doing nothing but learning computer languages..<br/><br>
+ &emsp; 📖 Ask me about anything i'm free of charge...<br/><br>
+ &emsp; 💀 Fun fact: I like to watch animes at my free times...<br/><br>
+  
+</p>
 
 <br>
-<br>
-<br>
 
-<h2 align="Left">
-  Languages curruntly i Learning:
-</h2>
+  # Languages curruntly i Learning :
+
 
 <div> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -46,3 +39,28 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
 </div>
 
+<br/>
+<br/>
+
+# More About Me :
+
+<p align="center">
+  <a href="https://github.com/Yakashi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yakashi&theme=radical&border=7F3FBF&background=0D1117" alt="Yakashi's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Yakashi13">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yakashi13&theme=radical" alt="Yakashi's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/Yakashi13"><img alt="Yakashi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Yakashi13&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Yakashi13"><img alt="Yakashi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Yakashi13&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Yakashi's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yakashi13&custom_title=Yakashi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
