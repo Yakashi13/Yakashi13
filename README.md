@@ -10,7 +10,7 @@
   # About Me :
   
 <p> 
- <img align="right" width="350" src="/assets/coding-typing.gif" alt="Coding gif" />
+ <img src="/assets/coding-typing.gif" align="right" width="310" alt="Coding gif">
 
  &emsp;  ✌️ I’m Currently studying to be a software developer...<br/><br/>
  &emsp; 💻 I like to be a Front-End developer,<br/><br/>
