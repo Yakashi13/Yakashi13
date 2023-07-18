@@ -24,7 +24,7 @@
 
 <br>
 
-  # Languages curruntly i Learning :
+  # Languages curruntly i'm Learning :
 
 
 <div> 
