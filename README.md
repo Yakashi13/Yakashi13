@@ -44,7 +44,7 @@
 # States :
 
 <p align="center">
-  <a href="https://github.com/Yakashi">
+  <a href="https://github.com/Yakashi13">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yakashi&theme=radical&border=7F3FBF&background=0D1117" alt="Yakashi's GitHub streak"/>
   </a>
 </p>
