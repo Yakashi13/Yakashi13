@@ -1,11 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=2000&color=F70000&width=655&height=69&lines=Hello+There.+.+.;I'm+Yakashi.+.+.;Welcome+to+my+profile.+.+.)](https://git.io/typing-svg)
   
-<div align="center">
-  
-<img src="https://media4.giphy.com/media/2juvZoQ3oLa4U/giphy.gif?cid=ecf05e47y7k08eri0zq7yu7g6gcxqpjwdq4w0in1tsjm748w&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="img" width="720px" heigth="1080px">
-  
-</div>
 <br>
 
   # About Me :
@@ -13,9 +8,7 @@
 <p> 
  <img src="/assets/coding-typing.gif" align="right" width="310" alt="Coding gif">
 
- &emsp;  ✌️ I’m Currently studying to be a software developer...<br/><br/>
- &emsp; 💻 I like to be a Front-End developer,<br/><br/>
- &emsp;  - Soo, mainly focus on front end..(suck at back-end)<br/><br/>
+ &emsp;  💻 I’m Currently studying to be a Front-End web developer...<br/><br/>
  &emsp; 😎 Enjoy to do programming and sharing knowledge <br/><br/>
  &emsp;  📱 Currently doing nothing but learning computer languages..<br/><br>
  &emsp; 📖 Ask me about anything i'm free of charge...<br/><br>
