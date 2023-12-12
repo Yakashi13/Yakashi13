@@ -1,10 +1,6 @@
-### Now Playing 🎧
+### Listening to... 🎧
 
 [![Spotify](https://spotify-yakashi13.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31rzh7lcqbcfeulf7l2bheedtg7i?si=c1adcd95a8d748dc)
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=2000&color=F70000&width=655&height=69&lines=Hello+There.+.+.;I'm+Yakashi.+.+.;Welcome+to+my+profile.+.+.)](https://git.io/typing-svg)
   
 <br>
 
