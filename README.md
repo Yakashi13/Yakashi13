@@ -1,6 +1,6 @@
 ### Listening to... 🎧
 
-[![Spotify](https://spotify-yakashi13.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31rzh7lcqbcfeulf7l2bheedtg7i?si=c1adcd95a8d748dc)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31rzh7lcqbcfeulf7l2bheedtg7i&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31rzh7lcqbcfeulf7l2bheedtg7i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]]
   
 <br>
 
