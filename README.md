@@ -3,7 +3,7 @@
 ### 🎧 Currently Listening To...  
 *(because music fuels the grind)*  
 
-[![Spotify](https://https://spotify-lake-nu.vercel.app//api/spotify)](https://open.spotify.com/user/13K)
+[![Spotify](https://https://spotify-lake-nu.vercel.app//api/spotify)](https://open.spotify.com/user/31rzh7lcqbcfeulf7l2bheedtg7i)
 ---
 
 ## 💫 About Me  
