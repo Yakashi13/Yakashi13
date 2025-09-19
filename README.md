@@ -13,7 +13,7 @@
 
  💻 Web & Software Developer, and on the side a self-taught **video editor** + **graphic designer**.  
  😎 I enjoy building front-end magic and sharing knowledge with anyone who asks.  
- 📱 These days, I’m mainly vibing with **front-end design** + **graphics**.  
+ 📱 These days, I’m mainly vibing with **front-end & UI/UX design** + **graphics**.  
  📖 Got questions? Hit me up—no charge, just vibes.  
  💀 Fun fact: I binge anime when the code doesn’t compile.  
 </p>  
@@ -80,7 +80,7 @@
 
 > “When code breaks, I switch to anime—both have plot twists.”  
 
-🎬 Some favorites: **Attack on Titan**, **One Punch Man**, **Naruto**, **Jujutsu Kaisen**.  
+🎬 Some favorites: **Gintama**, **One Punch Man**, **Naruto**, **Overflow**.  
 
 ---
 
